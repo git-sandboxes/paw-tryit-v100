@@ -1,7 +1,16 @@
 # Changelog
 
-**Current version:** 0.3.0  
-**Last updated:** 2026-10-16T11:02:57Z  
+**Current version:** 0.3.1  
+**Last updated:** 2026-10-16T11:04:27Z  
+
+---
+
+## [0.3.1] - 2026-10-16
+
+**PR:** #2  
+
+**🐛 Fixes**
+- Spanish greeting punctuation
 
 ---
 
