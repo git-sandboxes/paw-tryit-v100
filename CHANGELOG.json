@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-16T10:36:58Z",
-    "currentVersion": "0.2.2",
+    "lastUpdated": "2026-10-16T11:02:57Z",
+    "currentVersion": "0.3.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 3
+    "totalReleases": 4
   },
   "releases": [
+    {
+      "version": "0.3.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": 1,
+      "raw_summary": "### ✨ Features\n- greet in Spanish",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ Features",
+          "items": [
+            "greet in Spanish"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.2.2",
       "project_types": [
